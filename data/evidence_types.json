@@ -1,0 +1,26 @@
+{
+  "_note": "Controlled vocabulary for the 'evidence that would prove it' column. Week 3's simulated evidence events use the same ids, so keep them stable. 'source' says where the evidence normally comes from: paper, digital system, or sensor/camera (the edge product).",
+  "evidence_types": [
+    {"id": "prestart_record", "label": "Completed pre-start checklist", "source": "paper or app"},
+    {"id": "defect_report", "label": "Defect report and close-out", "source": "paper or app"},
+    {"id": "out_of_service_tag", "label": "Out-of-service tag or lockout record for unsafe plant", "source": "paper or app"},
+    {"id": "maintenance_record", "label": "Maintenance or service record", "source": "digital system"},
+    {"id": "inspection_record", "label": "Inspection record (guards, plant, area)", "source": "paper or app"},
+    {"id": "isolation_record", "label": "Isolation or lockout register", "source": "paper or app"},
+    {"id": "permit_to_work", "label": "Permit to work", "source": "paper or app"},
+    {"id": "training_record", "label": "Training or competency record", "source": "digital system"},
+    {"id": "induction_record", "label": "Signed induction record", "source": "paper or app"},
+    {"id": "sign_in_log", "label": "Site sign-in and sign-out log", "source": "paper or app"},
+    {"id": "contractor_prequal", "label": "Contractor prequalification file (licences, insurance, SWMS)", "source": "digital system"},
+    {"id": "swms", "label": "Safe work method statement or job safety analysis", "source": "paper or app"},
+    {"id": "risk_assessment", "label": "Documented risk assessment", "source": "document"},
+    {"id": "procedure", "label": "Written procedure or plan", "source": "document"},
+    {"id": "plan_review_record", "label": "Record of a procedure or plan review", "source": "document"},
+    {"id": "consultation_record", "label": "Record of consultation (meeting minutes, toolbox talk)", "source": "paper or app"},
+    {"id": "supervision_record", "label": "Supervisor check or sign-off", "source": "paper or app"},
+    {"id": "camera_event_log", "label": "Camera event log (people or vehicles in a zone, with time)", "source": "sensor or camera"},
+    {"id": "interlock_log", "label": "Interlock, e-stop or pull-wire test or trip log", "source": "sensor or camera"},
+    {"id": "telematics_log", "label": "Machine telematics (hours, faults, operator log-on)", "source": "sensor or camera"},
+    {"id": "photo", "label": "Dated photo", "source": "paper or app"}
+  ]
+}

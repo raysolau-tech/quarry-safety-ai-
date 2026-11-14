@@ -1,0 +1,11 @@
+RIDGEVIEW QUARRY (fictional example site)
+PROCEDURE: CLEANING SPILLAGE UNDER THE PRIMARY CONVEYOR
+
+1. Radio the plant operator and say you are going to clean under conveyor CV-01.
+2. Ask the operator to stop the conveyor from the control room.
+3. Shovel spillage from under the belt and around the tail pulley.
+4. Do not reach into moving parts.
+5. When finished, radio the operator to restart the conveyor.
+
+Guards are checked when someone notices a problem.
+Reviewed: 2019

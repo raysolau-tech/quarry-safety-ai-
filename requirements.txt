@@ -1,0 +1,15 @@
+langchain-aws>=1.0
+langchain-core>=1.0
+langchain-community>=0.4
+langchain-text-splitters>=1.0
+boto3>=1.40
+pydantic>=2.7
+pypdf>=5.0
+python-docx>=1.1
+markdown>=3.6
+python-dotenv>=1.0
+streamlit>=1.40
+# only for RAG_BACKEND=faiss
+faiss-cpu>=1.8
+# only for LLM_BACKEND=nvidia (public guidance only)
+# langchain-nvidia-ai-endpoints>=0.3

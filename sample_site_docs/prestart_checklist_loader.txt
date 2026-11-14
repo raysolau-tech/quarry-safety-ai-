@@ -1,0 +1,21 @@
+RIDGEVIEW QUARRY (fictional example site)
+DAILY PRE-START CHECKLIST: FRONT-END LOADER
+
+Operator name: ____________   Date: ________   Machine no.: FEL-02   Hour meter: ______
+
+Tick each item OK or Not OK before starting the engine.
+
+[ ] Walk around machine, look for obvious damage
+[ ] Tyres look OK
+[ ] Engine oil level
+[ ] Coolant level
+[ ] Hydraulic oil level
+[ ] Fuel level
+[ ] Windscreen clean
+[ ] Horn works
+[ ] Lights work
+[ ] Bucket and teeth look OK
+
+If something is not OK, tell the supervisor.
+
+Operator signature: ____________

@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+.env
+index/
+guidance/*.pdf
+guidance/*.metadata.json
+guidance/_reference/
+guidance/*.docx
+guidance/*.DOCX
+guidance/*.zip
+# customer documents and their reports never go in Git
+clients/
+reports/*
+!reports/demo-ridgeview-quarry/
+data/candidates.csv

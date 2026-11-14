@@ -1,0 +1,40 @@
+{
+  "topics": [
+    {
+      "id": "PRE",
+      "name": "Mobile plant pre-starts",
+      "description": "Pre-start and pre-operational checks of mobile plant (loaders, haul trucks, excavators, dozers), defect reporting and taking unsafe plant out of service.",
+      "queries": [
+        "pre-start inspection of mobile plant before use",
+        "pre-operational check records for loaders and haul trucks",
+        "defect reporting and removing unsafe plant from service",
+        "competency of mobile plant operators",
+        "maintenance and inspection of mobile plant brakes steering and safety features"
+      ]
+    },
+    {
+      "id": "CON",
+      "name": "Conveyor guarding and isolation",
+      "description": "Guarding of conveyor nip points, tail pulleys and drives; isolation and lockout before cleaning, maintenance or clearing blockages; emergency stops and pull wires.",
+      "queries": [
+        "guarding of conveyor tail pulleys head pulleys and nip points",
+        "isolation and lockout of plant before maintenance or cleaning",
+        "clearing blockages on conveyors and crushers",
+        "emergency stop devices and pull wire switches on conveyors",
+        "inspection and testing of guards and isolation points"
+      ]
+    },
+    {
+      "id": "CTR",
+      "name": "Contractor management",
+      "description": "Engaging and managing contractors at a quarry: prequalification, induction, supervision, consultation and sharing of hazard information.",
+      "queries": [
+        "induction of contractors at a mine or quarry site",
+        "contractor management plan and prequalification",
+        "consultation and coordination with contractors",
+        "supervision of contractors and verifying competency",
+        "contractor safe work method statements and risk assessments"
+      ]
+    }
+  ]
+}
